@@ -1,5 +1,4 @@
 def main():
-	print("Test")
 	print("Eyyy")
 	print("Hello Krill")
 
